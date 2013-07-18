@@ -1,15 +1,15 @@
 {
     "version": "1.0.0",
-    "name": "My App",
-    "description": "My App Description",
+    "name": "Plurk",
+    "description": "Plurk Mobile Ver.",
     "developer": {
-        "name": "Your Name",
-        "url": "https://github.com/gasolin/webapplate"
+        "name": "Lai, Wei-Chen (lRabbit)",
+        "url": "https://github.com/abev66"
     },
     "launch_path": "/index.html",
     "default_locale": "en",
     "icons":{
-        "128": "/style/icons/icon128.png"
+        "64": "/style/icons/icon64.png"
     },
     "installs_allowed_from": ["*"]
 }
