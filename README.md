@@ -78,7 +78,7 @@ Read [Deployment](https://github.com/gasolin/webapplate/wiki/Deployment#3-packag
 
 4. Support `offline appcache` and `packaged webapp` generator via [grunt.js](https://github.com/gunta/grunt-manifest) that make `offline webapp` support easier.
 
-5. Integrate unittest with browser via [mocha](http://visionmedia.github.io/mocha/) JS test framework
+5. Integrate unittest with browser via [mocha](http://mochajs.org/) JS test framework
 
 6. Dynamic page support based on [express](http://www.expressjs.com)
 
